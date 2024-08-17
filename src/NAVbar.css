@@ -1,0 +1,18 @@
+.NavLink{
+   
+    text-decoration: none;
+    color: red;
+    height : 100px;
+}
+.NavLink:hover{
+   
+   background-color: orangered;
+   color:floralwhite;
+   
+}
+/* ///////////////////////////////////////////////for making making currnet opened link active/////////////// */
+.NavLink.active{
+    background-color: aqua;
+    border-radius: 12px;
+}
+ 
